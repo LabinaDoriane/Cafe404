@@ -3,7 +3,7 @@
 ## Présentation du groupe
 * Robert - Chef de projet
 * Rakoto - Graphiste
-* Labine - Designer
+* Labina - Designer
 * Megarisse - Développeur
 
 ## Logo v1
